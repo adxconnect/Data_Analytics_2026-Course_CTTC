@@ -30,10 +30,10 @@ Summary of the daily modules completed in the Python & Excel     curriculum.
 | **Day 08** | ✅ | Data Cleaning |
 | **Day 09** | ✅ | Data Visualization |
 | **Day 10** | ✅ | Advanced Analysis |
-| **Day 11** | ✅ | Time Series / Projects |
-| **Day 12** | ✅ | Advanced Projects |
-| **Day 13** | ✅ | Excel Analysis |
-| **Day 14** | ✅ | Excel Analysis |
+| **Day 11** | ✅ | Time Series and Graph Plotting |
+| **Day 12** | ✅ | Naive Bayes and SVM |
+| **Day 13** | ✅ | Basics of Excel |
+| **Day 14** | ✅ | Charts, Text and Date Functions |
 | **Day 15** | 🚧 | *Current Focus* |
 
 ## 🗂️ Directory Structure
