@@ -34,7 +34,15 @@ Summary of the daily modules completed in the Python & Excel     curriculum.
 | **Day 12** | ✅ | Naive Bayes and SVM |
 | **Day 13** | ✅ | Basics of Excel |
 | **Day 14** | ✅ | Charts, Text and Date Functions |
-| **Day 15** | 🚧 | *Current Focus* |
+| **Day 15** | ✅ | Other Excel Functions (TRIM, Flash Fill,etc) |
+| **Day 16** | ✅ | Dashboard - *(HR ANALYTICS)* |
+| **Day 17** | 🚧 | Tableau |
+
+## 🏆 Achievement 1
+
+<div align="center">
+  <img src="./Logo/Dashboard_HR.png" alt="HR Dashboard Achievement" width="100%" />
+</div>
 
 ## 🗂️ Directory Structure
 
@@ -59,7 +67,9 @@ Data_Analytics_2026(Course)/
 ├── 📂 Excel/          # Excel resources and sheets
 │   ├── 📊 DAY 13 _ Date _ 03rd Feb 2026.xlsx
 │   └── � DAY 14_Date_04th Feb 2026.xlsx
-├── �📂 Logo/           # Project logos and branding assets
+│   └── � DAY 15_Date_05th Feb 2026.xlsx
+│   └── � DAY 16_Date_06th Feb 2026.xlsx
+├── �📂 Logo/         # Project logos and branding assets
 ├── 📂 Notes/          # Course notes and documentation
 ├── 📂 Python/         # Jupyter Notebooks (Day 01 - Day 12)
 │   ├── 📂 Dataset/    # Data files used in notebooks
@@ -75,8 +85,11 @@ Data_Analytics_2026(Course)/
 │   ├── 📜 Day_10.ipynb
 │   ├── 📜 Day_11.ipynb
 │   └── 📜 Day_12.ipynb
+
 └── 📂 Recovery/       # Backup and recovery files
 ```
+
+
 
 ## 🚀 Plan
 
@@ -86,4 +99,4 @@ Data_Analytics_2026(Course)/
 - [ ] Integrate advanced Machine Learning modules
 
 ---
-*Last Updated: 05th Feb 2026 08:21:47 PM*
+*Last Updated: 08th Feb 2026 11:25:25 PM*
