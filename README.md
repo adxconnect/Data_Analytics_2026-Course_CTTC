@@ -38,11 +38,7 @@ Summary of the daily modules completed in the Python & Excel     curriculum.
 | **Day 16** | ✅ | Dashboard - *(HR ANALYTICS)* |
 | **Day 17** | 🚧 | Tableau |
 
-## 🏆 Achievement 1
 
-<div align="center">
-  <img src="./Logo/Dashboard_HR.png" alt="HR Dashboard Achievement" width="100%" />
-</div>
 
 ## 🗂️ Directory Structure
 
@@ -88,7 +84,11 @@ Data_Analytics_2026(Course)/
 
 └── 📂 Recovery/       # Backup and recovery files
 ```
+## 🏆 Achievement 1
 
+<div align="center">
+  <img src="./Logo/Dashboard_HR.png" alt="HR Dashboard Achievement" width="100%" />
+</div>
 
 
 ## 🚀 Plan
