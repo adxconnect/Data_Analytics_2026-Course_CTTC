@@ -84,7 +84,7 @@ Data_Analytics_2026(Course)/
 
 └── 📂 Recovery/       # Backup and recovery files
 ```
-## 🏆 Achievement 1
+## 🏆 Project 01 -> [Dashboard - HR Analytics Dashboard]
 
 <div align="center">
   <img src="./Logo/Dashboard_HR.png" alt="HR Dashboard Achievement" width="100%" />
