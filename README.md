@@ -36,7 +36,8 @@ Summary of the daily modules completed in the Python & Excel     curriculum.
 | **Day 14** | ✅ | Charts, Text and Date Functions |
 | **Day 15** | ✅ | Other Excel Functions (TRIM, Flash Fill,etc) |
 | **Day 16** | ✅ | Dashboard - *(HR ANALYTICS)* |
-| **Day 17** | 🚧 | Tableau |
+| **Day 17** | ✅ | Tableau Dashboard|
+| **Day 18** | 🚧 | Power Bi |
 
 
 
@@ -61,11 +62,13 @@ graph TD;
 ```text
 Data_Analytics_2026(Course)/
 ├── 📂 Excel/          # Excel resources and sheets
-│   ├── 📊 DAY 13 _ Date _ 03rd Feb 2026.xlsx
-│   └── � DAY 14_Date_04th Feb 2026.xlsx
-│   └── � DAY 15_Date_05th Feb 2026.xlsx
-│   └── � DAY 16_Date_06th Feb 2026.xlsx
-├── �📂 Logo/         # Project logos and branding assets
+│   ├── 📊 DAY 13_Date_03rd Feb 2026.xlsx
+│   └──  DAY 14_Date_04th Feb 2026.xlsx
+│   └──  DAY 15_Date_05th Feb 2026.xlsx
+│   └──  DAY 16_Date_06th Feb 2026.xlsx
+├──📂 Tableau/
+│   └── 📊 DAY 17_Date_09th Feb 2026
+├── 📂 Logo/           # Project logos and branding assets
 ├── 📂 Notes/          # Course notes and documentation
 ├── 📂 Python/         # Jupyter Notebooks (Day 01 - Day 12)
 │   ├── 📂 Dataset/    # Data files used in notebooks
@@ -99,4 +102,4 @@ Data_Analytics_2026(Course)/
 - [ ] Integrate advanced Machine Learning modules
 
 ---
-*Last Updated: 08th Feb 2026 11:25:25 PM*
+*Last Updated: 09th Feb 2026 17:14:26 PM*
