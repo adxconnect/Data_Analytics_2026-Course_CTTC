@@ -1,0 +1,40 @@
+{
+  "trained_at": "2026-04-07T11:09:50.749698",
+  "best_model": "Gradient Boosting",
+  "test_size": 0.2,
+  "cv_folds": 5,
+  "models": {
+    "Random Forest": {
+      "r2": 0.9225,
+      "mae": 9051.12,
+      "rmse": 12024.72,
+      "mape": 9.71,
+      "cv_r2_mean": 0.921,
+      "cv_r2_std": 0.0011
+    },
+    "Gradient Boosting": {
+      "r2": 0.9398,
+      "mae": 8259.68,
+      "rmse": 10602.05,
+      "mape": 8.98,
+      "cv_r2_mean": 0.9394,
+      "cv_r2_std": 0.0007
+    },
+    "Ridge Regression": {
+      "r2": 0.7713,
+      "mae": 16243.71,
+      "rmse": 20665.23,
+      "mape": 20.86,
+      "cv_r2_mean": 0.7713,
+      "cv_r2_std": 0.0008
+    }
+  },
+  "best_model_metrics": {
+    "r2": 0.9398,
+    "mae": 8259.68,
+    "rmse": 10602.05,
+    "mape": 8.98,
+    "cv_r2_mean": 0.9394,
+    "cv_r2_std": 0.0007
+  }
+}
